@@ -20,12 +20,12 @@ Meus projetos se encontram na aba de arquivos deste mesmo repositório, peço qu
 ---
 
 ### 🎯 Meus Objetivos Futuros
-* Aprofundar meus conhecimentos em toda a área de dados, pois é uma área que está em constante epansão.
+* Aprofundar meus conhecimentos em toda a área de dados, pois é uma área que está em constante expansão.
 * Entender como a análise de dados funciona na prática diária de uma empresa
 
 ---
 
-### 🌐 Conecte-se Comigo
+### 🌐 Conecte-se comigo
 * **Linkedin:** linkedin.com/in/jussara-faria-de-oliveira-19b02b280/
 
 Agradeço a sua visita! Fique à vontade para entrar em contato.
