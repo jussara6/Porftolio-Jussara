@@ -1,8 +1,8 @@
 # Olá, sou Jussara! 👋
 
-### Analista de dados em treinamento e estudante de Engenharia de Software.
+### Estudante 3° período de Engenharia de Software
 
-Bem-vindo(a) ao meu portfólio de projetos! Sou uma analista de dados em busca de conhecimento, completamente apaixonada por matemática, análise de negócios e estatísticas. Neste espaço, você encontrará uma coleção de meus trabalhos, que conta com projetos pessoais e criados com orientações de meus estudos e cursos.
+Bem-vindo(a) ao meu portfólio de projetos! Sou uma estudante com sede de conhecimento, completamente apaixonada por matemática, desenvolvimento web, análise de negócios e estatísticas. Neste espaço, você encontrará uma coleção de meus trabalhos, que conta com projetos pessoais e criados com orientações de meus estudos acadêmicos e cursos extracurriculares.
 
 ---
 
@@ -10,12 +10,15 @@ Bem-vindo(a) ao meu portfólio de projetos! Sou uma analista de dados em busca d
 Sempre em busca de aprimorar minhas habilidades, tenho experiência com tecnologias como:
 * **Tecnologias de análise:** Power bi, Excel.
 * **Bancos de Dados:** Linguagem SQL básica.
+* **HTML e CSS:** Produção de sites institucionais
+* **Lógica de programação aplicada em C++:** Aprendizado adquirido no 2° semestre.
+* **POO com Java e PHP:** Aprendizado adquirido no 1° semestre.
 
 ---
 
 ### 📂 Projetos em Destaque
 
-Meus projetos se encontram na aba de arquivos deste mesmo repositório, peço que dê uma olhada, confira!
+Meus projetos em análise de daods se encontram 
 
 ---
 
